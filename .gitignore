@@ -4,5 +4,6 @@ pages/__pycache__/
 pages/migrations/__pycache__/
 projects/__pycache__/
 uploads/
+tests/__pycache__/
 
 
