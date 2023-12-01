@@ -74,6 +74,9 @@ TEMPLATES = [
 
 WSGI_APPLICATION = 'personal_portfolio.wsgi.application'
 
+MEDIA_ROOT = BASE_DIR / "uploads/"
+MEDIA_URL = "media/"
+
 
 # Database
 # https://docs.djangoproject.com/en/4.2/ref/settings/#databases
